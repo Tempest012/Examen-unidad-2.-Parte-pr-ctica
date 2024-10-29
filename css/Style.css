@@ -1,0 +1,14 @@
+﻿body {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:aquamarine;
+}
+
+#foto, #foto img{
+    height:500px;
+}
+
+.escondido{
+    display:none;
+}
